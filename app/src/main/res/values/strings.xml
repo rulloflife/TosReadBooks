@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TosReadBooks</string>
+    <string name="page">12</string>
+    <string name="view">25</string>
+    <string name="description">Lorem ipsum dolor sit amet consectetur adipiscing elit primis ad, in pulvinar auctor mauris nascetur consequat convallis leo, natoque magnis odio sem nisi turpis massa placerat. Dapibus primis lobortis litora ante massa viverra facilisis semper tortor, mus gravida phasellus odio potenti porta lacus tempus eleifend nunc, posuere himenaeos ornare aenean vivamus purus curabitur malesuada.</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="home">Home</string>
+    <string name="about">About us</string>
+    <string name="contact">Contact</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
